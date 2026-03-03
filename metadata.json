@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Fotos IA (copia)",
+  "description": "An internal tool for managing AI image prompts, organizing photo libraries, and generating batch export files.",
+  "requestFramePermissions": []
+}
